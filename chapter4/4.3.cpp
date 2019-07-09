@@ -1,3 +1,6 @@
+//insert1.cpp  -- reading more than one string 
+
+
 #include <iostream>
 
 using namespace std;

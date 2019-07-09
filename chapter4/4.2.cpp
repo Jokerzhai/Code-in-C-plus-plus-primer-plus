@@ -1,7 +1,6 @@
 #include <iostream>
 #include <cstring>  //for the strlrn()function
 
-
 using namespace std;
 
 int main()

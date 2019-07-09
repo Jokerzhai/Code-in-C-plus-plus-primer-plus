@@ -1,3 +1,4 @@
+//arrayone.cpp -- small arrays of integers
 #include <iostream>
 
 using namespace std;

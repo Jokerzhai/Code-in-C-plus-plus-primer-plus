@@ -10,7 +10,7 @@ int main()
     int debt = 7.2E7;
  //   const int code = 66;
     cout << "tree = "   << tree <<endl;
-    cout << "guess= "  << guess <<endl;
+    cout << "guess= "   << guess <<endl;
     cout << "debt = "   << debt <<endl;
     return 0;
 }
